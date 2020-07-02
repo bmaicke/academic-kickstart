@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Brian A. Maicke
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Penn State Harrisburg
+  url: "https://harrisburg.psu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computational fluid mechanics and aerospace propulsion systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Aerospace Propulsion Systems
+- Fluid Dynamics
+- Applied Mathematics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Aerospace Engineering
+    institution: University of Tennessee Space Institute
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Aerospace Engineering
+    institution: University of Tennessee Space Institute
+    year: 2006
+  - course: BS in Mechanical Engineering
+    institution: Marquette University
+    year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:bam49@psu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/brian_maicke
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=nnRVipMAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/bmaicke
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Brian Maicke is an Associate Professor of Mechanical Engineering at Penn State Harrisburg, an undergraduate college and graduate school of The Pennsylvania State University. 
+He earned his Ph.D. in Aerospace Engineering at the University of Tennessee Space Institute for his research on compressible flow modeling in rocket motors. 
+He teaches courses primarily in thermo-fluids and computer aided engineering at both the undergraduate and graduate levels. 
+His research interests center on using analytical and computational methods to investigate fluid phenomena in a wide range of fields. 
+Most of his current work focuses on aerospace applications, including modeling the internal flow-fields present in solid and liquid rockets, supersonic nozzle phenomena, and particle-flow interactions.
